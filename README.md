@@ -1,9 +1,10 @@
 # Dokumentasi To-Do List App (Laravel API + React Frontend)
-## Tampilan Awal (sudah ada isinya)
-<img width="1900" height="827" alt="image" src="https://github.com/user-attachments/assets/6455c3ff-d7d9-4431-a376-4c1153f5cef9" />
 
-## Jika Add Form Kosong (Validasi Input)
+<img width="1900" height="827" alt="image" src="https://github.com/user-attachments/assets/6455c3ff-d7d9-4431-a376-4c1153f5cef9" />
+## Tampilan Awal (sudah ada isinya)
+
 <img width="1896" height="824" alt="image" src="https://github.com/user-attachments/assets/a47ac369-eac3-486c-baf5-c71049929874" />
+## Jika Add Form Kosong (Validasi Input)
 
 ## Add Form Berhasil
 <img width="1895" height="827" alt="image" src="https://github.com/user-attachments/assets/2e18cd19-6402-4081-a556-07cbdd2e198e" />
